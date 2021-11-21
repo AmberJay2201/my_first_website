@@ -1,0 +1,45 @@
+.title {
+    font-size: 50px;
+    color: purple;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 36px;
+    color: darkslategray;
+    text-align: centre;
+    font-weight: bold;
+}
+
+.dragon {
+    width:600px;
+    height:600px;
+}
+
+.cat {
+    width:700px;
+    height:300px;
+}
+
+.independent_page {
+    margin-left: 50px;
+}
+
+.button {
+    border-radius: 10px;
+    font-size: 24px;
+    padding: 12px;
+    background-color: darkviolet;
+    }
+
+.spaced {
+    margin-left: 50px;
+}
+
+.button:active {
+    background-color: violet
+}
+
+.button:hover {
+    background-color: palegoldenrod;
+}
