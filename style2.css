@@ -36,10 +36,11 @@
     margin-left: 50px;
 }
 
-.button:active {
-    background-color: violet
-}
-
 .button:hover {
     background-color: palegoldenrod;
 }
+
+.button:active {
+    background-color: violet;
+}
+
