@@ -42,3 +42,7 @@
 .button:active {
     background-color: paleturquoise;
 }
+
+.space_above {
+    margin-top: 25px;
+}
